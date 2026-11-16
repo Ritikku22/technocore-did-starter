@@ -1,0 +1,7 @@
+{
+  "artifact_url": "https://github.com/Ritikku22/technocore-did-starter",
+  "commit": "6836c1bf4c809ffd79130a6dc5bcf1e8d1907a1a",
+  "did": "did:key:z6MkjjNTn77WXWo7B2Nu6hXPTD18TfmQNiuYxGM8aMxHC4Vn",
+  "schema": "technocore-contribution-proof-v1",
+  "signature": "z7jG8qmt5bz4d4hie_mvE6wkjNPq5EqPXAvim86W6CB8ZiplQEr4vQIBVabnQ1uBu1pWSRSH00d80qTcWBStCA"
+}
